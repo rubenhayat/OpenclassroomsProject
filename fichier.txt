@@ -1,0 +1,7 @@
+void affichage(){
+	printf("Hello World");
+}
+
+int main(){
+	affichage();
+}
